@@ -9,7 +9,7 @@
 3. Main 함수로 실행, T = 1: label이 있는 대화의 feature를 저장, T = 2: 대화의 호감도 반환
 
 cf) numpy 1.18.0에서는 동작하지 않음 1.17.0 버전 필요
-pip uninstall numpy
 
+pip uninstall numpy
 
 pip install numpy==1.17.0
